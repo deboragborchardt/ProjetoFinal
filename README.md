@@ -2,7 +2,7 @@
 
 <b>Descrição do Projeto:</b>
 
-Construção de um agente inteligente da loja BimBam Buy.
+Construção de um agente inteligente do e-commerce BimBam Buy.
 Ele será capaz de responder perguntas com base nos documentos em PDF fornecidos.
 Informações sobre: Manual de Garantia, Perguntas Frequentes, Politica de Reembolso, Reembolso e Devolução, Programa de afiliados. Caso tenha alguma pergunta que ele não tenha a informação, ele deve dizer que não possue a informação.
 
