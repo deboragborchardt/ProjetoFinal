@@ -48,7 +48,18 @@ Detalhamento das Camadas da Arquitetura:
 
 <b> Exemplos de perguntas que o agente consegue responder </b>
 
+O agente consegue responder perguntas como:
+Qual a politica de troca?
+Como funciona o programa de afiados?
+Métodos de pagamentos aceitos?
+
+No geral informações sobre:
+Guia de prazo e custos, Perguntas Frequentes, Politica de Reembolso, Garantia e Programa de Afiliados.
+
+O Agente não consegue consultar algum pedido específico, nem abrir chamados. O agente está preparado somente para responder perguntas gerais com base nos documentos fornecidos sem consulta a banco de dados.
+
 <b> Exemplos de respostas geradas pelo agente. </b>
+
 
 <b> Instruções para executar o projeto </b>
 
