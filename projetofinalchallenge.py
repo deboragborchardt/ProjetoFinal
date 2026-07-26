@@ -30,7 +30,7 @@ urls = [
     'https://raw.githubusercontent.com/deboragborchardt/ProjetoFinal/main/GuiadePrazoseCustos.pdf',
     'https://raw.githubusercontent.com/deboragborchardt/ProjetoFinal/main/ManualdeGarantia.pdf',
     'https://raw.githubusercontent.com/deboragborchardt/ProjetoFinal/main/PerguntasFrequentes.pdf',
-    'https://raw.githubusercontent.com/deboragborchardt/ProjetoFinal/main/PoliticaRembolsoDevolucao.pdf',
+    'https://raw.githubusercontent.com/deboragborchardt/ProjetoFinal/main/PoliticaReembolsoDevolucao.pdf',
     'https://raw.githubusercontent.com/deboragborchardt/ProjetoFinal/main/ProgramadeAfiliados.pdf'
 ]
 
