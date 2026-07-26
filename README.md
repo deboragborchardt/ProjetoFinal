@@ -28,13 +28,6 @@ Gradio: Biblioteca para criação rápida de interfaces web interativas de chat 
 
 A solução segue um padrão de Atendimento Baseado em Contexto , estruturada nas seguintes etapas:
 
-[Repositório GitHub (PDFs)]
-           │
-           ▼
-[PyPDFLoader / Ingestão] ──► [Concatenação de Texto (textoDocumentos)]
-                                         │
-                                         ▼
-[Usuário (Gradio Chat UI)] ──► [Prompt + Contexto + Pergunta] ──► [Gemini 2.5 Flash] ──► [Resposta ao Cliente]
 
 Detalhamento das Camadas da Arquitetura:
 1. Camada de Ingestão e Processamento de Dados 
