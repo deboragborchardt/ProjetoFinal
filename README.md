@@ -62,6 +62,7 @@ O Agente não consegue consultar algum pedido específico, nem abrir chamados. O
 
 Pergunta:
 Quantos dias eu tenho para devolver um produto?
+
 Resposta:
 Os prazos para solicitar uma devolução dependem do motivo:
 • Arrependimento de compra: Você pode solicitar a devolução dentro de 10 dias corridos após o recebimento do pedido.
@@ -69,6 +70,7 @@ Os prazos para solicitar uma devolução dependem do motivo:
 • Falha de funcionamento: A solicitação deve ser feita dentro do período de garantia aplicável ao produto.
 
 Pergunta: Quais as formas de pagamento do site?
+
 Resposta:
 A BimBam Buy pode aceitar as seguintes formas de pagamento, dependendo do país e da configuração operacional:
 • Cartão de crédito
@@ -79,6 +81,7 @@ A BimBam Buy pode aceitar as seguintes formas de pagamento, dependendo do país 
 • Parcelamento ou financiamento, quando aplicável
 
 Pergunta: Gostaria de saber mais sobre programa de afiliados.
+
 Resposta:
 O Programa de Afiliados da BimBam Buy permite que criadores, mídias, comunidades e parceiros comerciais promovam produtos da marca e recebam uma comissão por vendas validamente atribuídas.
 Elegibilidade:
@@ -90,6 +93,7 @@ Podem se candidatar:
 • Educadores ou avaliadores de produtos o Parceiros de conteúdo com audiência na LATAM
 
 Pergunta: Gostaria de informações sobre troca de produtos.
+
 Resposta:
 Olá! Na BimBam Buy, a "troca" é a substituição do produto por outro igual ou equivalente, conforme a disponibilidade.
 As trocas podem ser aplicadas nos seguintes casos:
