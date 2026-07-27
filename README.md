@@ -62,19 +62,19 @@ O Agente não consegue consultar algum pedido específico, nem abrir chamados. O
 
 Quantos dias eu tenho para devolver um produto?
 <img width="562" height="86" alt="Captura de Tela 2026-07-27 às 12 57 47" src="https://github.com/user-attachments/assets/cc6a183d-976f-4dc9-818e-f226f805d510" />
-
+<br>
 
 Quais as formas de pagamento do site?
 <img width="540" height="154" alt="Captura de Tela 2026-07-27 às 12 58 14" src="https://github.com/user-attachments/assets/404dbadc-35f4-471b-a5f6-7eb156b749b7" />
-
+<br>
 
 Informação sobre afiliados
 <img width="711" height="192" alt="Captura de Tela 2026-07-27 às 12 58 47" src="https://github.com/user-attachments/assets/aa5c32f0-856f-49af-bdc6-b376baa95a78" />
-
+<br>
 
 Informações sobre troca de produtos
 <img width="694" height="246" alt="Captura de Tela 2026-07-27 às 12 59 18" src="https://github.com/user-attachments/assets/fcb3e142-4617-4825-a515-26174db08788" />
-
+<br>
 
 <b> Instruções para executar o projeto </b>
 O projeto funciona em uma pagina web ou executado no GoogleColab.
