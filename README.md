@@ -60,21 +60,50 @@ O Agente não consegue consultar algum pedido específico, nem abrir chamados. O
 
 <b> Exemplos de respostas geradas pelo agente. </b>
 
+Pergunta:
 Quantos dias eu tenho para devolver um produto?
-<img width="562" height="86" alt="Captura de Tela 2026-07-27 às 12 57 47" src="https://github.com/user-attachments/assets/cc6a183d-976f-4dc9-818e-f226f805d510" />
-<br>
+Resposta:
+Os prazos para solicitar uma devolução dependem do motivo:
+• Arrependimento de compra: Você pode solicitar a devolução dentro de 10 dias corridos após o recebimento do pedido.
+• Produto incorreto, faltante ou dano visível: A solicitação deve ser feita em até 48 horas após a entrega.
+• Falha de funcionamento: A solicitação deve ser feita dentro do período de garantia aplicável ao produto.
 
-Quais as formas de pagamento do site?
-<img width="540" height="154" alt="Captura de Tela 2026-07-27 às 12 58 14" src="https://github.com/user-attachments/assets/404dbadc-35f4-471b-a5f6-7eb156b749b7" />
-<br>
+Pergunta: Quais as formas de pagamento do site?
+Resposta:
+A BimBam Buy pode aceitar as seguintes formas de pagamento, dependendo do país e da configuração operacional:
+• Cartão de crédito
+• Cartão de débito
+• Transferência bancária / PIX
+• Pagamento em dinheiro em pontos habilitados (ex: Boleto)
+• Carteiras digitais disponíveis por país
+• Parcelamento ou financiamento, quando aplicável
 
-Informação sobre afiliados
-<img width="711" height="192" alt="Captura de Tela 2026-07-27 às 12 58 47" src="https://github.com/user-attachments/assets/aa5c32f0-856f-49af-bdc6-b376baa95a78" />
-<br>
+Pergunta: Gostaria de saber mais sobre programa de afiliados.
+Resposta:
+O Programa de Afiliados da BimBam Buy permite que criadores, mídias, comunidades e parceiros comerciais promovam produtos da marca e recebam uma comissão por vendas validamente atribuídas.
+Elegibilidade:
+Podem se candidatar:
+• Criadores de conteúdo
+• Sites de cupons
+• Mídias digitais
+• Comunidades de compras
+• Educadores ou avaliadores de produtos o Parceiros de conteúdo com audiência na LATAM
 
-Informações sobre troca de produtos
-<img width="694" height="246" alt="Captura de Tela 2026-07-27 às 12 59 18" src="https://github.com/user-attachments/assets/fcb3e142-4617-4825-a515-26174db08788" />
-<br>
+Pergunta: Gostaria de informações sobre troca de produtos.
+Resposta:
+Olá! Na BimBam Buy, a "troca" é a substituição do produto por outro igual ou equivalente, conforme a disponibilidade.
+As trocas podem ser aplicadas nos seguintes casos:
+• Erro de despacho: Se você recebeu um produto diferente do que comprou. A solicitação deve ser feita em até 48 horas após a entrega.
+• Produto danificado: Se o produto apresentar dano visível ao ser recebido e for registrado dentro de 48 horas após a entrega.
+• Falha coberta por garantia: Se o produto apresentar um defeito de fabricação ou mau funcionamento dentro do período de garantia aplicável.
+Condições para aceitar uma devolução para troca:
+• O produto deve ter comprovante de compra ou número do pedido.
+• A solicitação deve ser apresentada dentro do prazo aplicável.
+• O produto deve estar completo, com acessórios, manuais e brindes promocionais, se houver.
+• Não deve mostrar sinais de uso incompatíveis com a revisão solicitada.
+• Deve manter a embalagem original ou proteção equivalente (quando aplicável).
+• Não deve ter sido submetido a reparo externo não autorizado.
+Se o erro for atribuível à BimBam Buy (como produto incorreto ou defeito de garantia, custo de coleta ou devolução para a troca será assumido pela empresa.
 
 <b> Instruções para executar o projeto </b>
 O projeto funciona em uma pagina web ou executado no GoogleColab.
